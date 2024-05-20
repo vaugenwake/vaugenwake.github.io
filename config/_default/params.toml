@@ -1,0 +1,17 @@
+colorScheme = "slate"
+
+[header]
+layout = "hybrid"              # valid options: basic, hamburger, hybrid, custom
+logo = "img/logo_light.svg"
+logoDark = "img/logo_dark.svg"
+showTitle = false
+
+[footer]
+showThemeAttribution = false
+showAppearanceSwitcher = true
+showScrollToTop = true
+
+[homepage]
+layout = "profile"
+showRecent = true
+recentLimit = 5

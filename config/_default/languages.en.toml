@@ -1,0 +1,14 @@
+title = "Vaugenwake's Tech Blog"
+
+[params]
+dateFormat = "2 January 2006"
+mainSections = ["blog"]
+
+[params.author]
+name = "Vaugen Wake"
+headline = "Lead Developer, Drummer and Motorsport's Enthusiast"
+bio = "I like the idea of VIM, VIM does not like the idea of me..."
+links = [
+    { twitter = "https://twitter.com/vaugenwake" },
+    { github = "https://github.com/vaugenwake" },
+]

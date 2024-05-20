@@ -1,0 +1,5 @@
+theme = "congo"
+baseURL = "https://vaugenwake.github.io"
+languageCode = "en"
+
+defaultContentLanguage = "en"
