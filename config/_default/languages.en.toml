@@ -6,7 +6,7 @@ mainSections = ["blog"]
 
 [params.author]
 name = "Vaugen Wake"
-headline = "Lead Developer, Drummer and Motorsport's Enthusiast"
+headline = "Tech articles, lead developer life and random rants"
 bio = "I like the idea of VIM, VIM does not like the idea of me..."
 links = [
     { twitter = "https://twitter.com/vaugenwake" },

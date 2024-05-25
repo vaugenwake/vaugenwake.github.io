@@ -3,3 +3,5 @@ baseURL = "https://vaugenwake.github.io"
 languageCode = "en"
 
 defaultContentLanguage = "en"
+
+summaryLength = 14

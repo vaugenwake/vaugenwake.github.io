@@ -15,3 +15,5 @@ showScrollToTop = true
 layout = "profile"
 showRecent = true
 recentLimit = 5
+
+list.showSummary = false
